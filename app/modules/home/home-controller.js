@@ -22,6 +22,10 @@ class HomeController {
         }
         }
         }
+        while(true)
+          console.log('asdf');
+        console.log('asdf');
+
     }
 
     sayHello(){
